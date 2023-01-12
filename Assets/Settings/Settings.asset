@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 508b760e2ce851e4eb3340ace6321d81, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 11400000, guid: 6706ea03df1d92240b1b6e478e634194, type: 2}
+  - {fileID: 11400000, guid: ba5db1b46ff4eab4eb6b659bb407c9a2, type: 2}
+  _player:
+    Health: 31
+    Damage: 1
+  _enemies:
+  - {fileID: 11400000, guid: 41c998c1072c01a43962692864f2fdcc, type: 2}
+  - {fileID: 11400000, guid: 866c7be5ff729eb4ab4091b096969a6b, type: 2}
+  - {fileID: 11400000, guid: 60d8323ced7688843a984bc503eb1dd0, type: 2}
